@@ -1,4 +1,4 @@
-      * [namespace HearthMirror:](#namespace-hearthmirror)
+* [namespace HearthMirror:](#namespace-hearthmirror)
          * [Reflection Class:](#reflection-class)
          * [Status class](#status-class)
       * [HearthMirror.Objects namespase](#hearthmirrorobjects-namespase)
